@@ -301,7 +301,7 @@ tt {
   background-color: #f8f8f8;
   border-radius: 3px;
   padding: 0;
-  font-family: 'Roboto Mono', Consolas, "Liberation Mono", Courier, monospace;
+  font-family: 'Roboto Mono', 'Noto Sans CJK TC', Consolas, "Liberation Mono", Courier, monospace;
   padding: 2px 4px 0px 4px;
   font-size: 0.9em;
 }
@@ -391,7 +391,7 @@ tt {
 .md-image > .md-meta {
   border: 1px solid #ddd;
   border-radius: 3px;
-  font-family: 'Roboto Mono', Consolas, "Liberation Mono", Courier, monospace;
+  font-family: 'Roboto Mono', 'Noto Sans CJK TC', Consolas, "Liberation Mono", Courier, monospace;
   padding: 2px 4px 0px 4px;
   font-size: 0.9em;
   color: inherit;
